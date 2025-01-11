@@ -1,14 +1,14 @@
-#Expense Tracker
-#Features:
+                            Expense Tracker
+.Features:
 Add Expense: Users can input their expenses categorized by type and amount.
 Show Expense Summary: Displays the total expenses and the highest expense category.
 Get Tips to Save Money: Provides personalized tips based on the user's spending patterns.
 Exit: Allows users to exit the application.
-#Prerequisites:
+.Prerequisites:
 To run this program, you need:
 A C++ compiler (e.g., g++, clang++)
 A terminal or command prompt
-#Functions:
+.Functions:
 1. AddExpense
 This function is responsible for adding new expense entries. It takes in arrays for categories and amounts, along with a reference to the size of the array, allowing it to update the size as new expenses are added.
 2. Summary
